@@ -32,4 +32,4 @@ def estrella(numero):
 
 
 
-estrella(5)
+estrella(6)
